@@ -1,0 +1,49 @@
+## Visual Studio & .NET Build Artifacts
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio temporary files, cache, and workspace settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+
+## NuGet Packages
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.assets.json
+
+## Test Results & Code Coverage
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Crash dumps and trace files
+*.dmp
+*.mdmp
+*.crash
+
+## Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+## IDE & Editor configs
+.idea/
+.vscode/
+*.swp
+*~
+
